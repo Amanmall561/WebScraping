@@ -1,4 +1,4 @@
-# WebScraping
+# WebScraping (podcast data>> audio & transcript)
 This file contain automation script that will scrape the podcast data(70+ podcast website) including tilte, podcast URL audio(tilte.mp3/wav) and transcript and store it in a spacific file structure. 
 Website Name is same as folder name( like floder name: 17_governmentdigitalservice.podbean, website:https://governmentdigitalservice.podbean.com/)
 
